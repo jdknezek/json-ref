@@ -1,0 +1,3 @@
+.npmignore
+lib/.gitignore
+lib/*.coffee
